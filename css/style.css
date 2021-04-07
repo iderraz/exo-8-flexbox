@@ -1,0 +1,14 @@
+section{
+    display: flex;
+}
+
+div{
+    background-color: orange;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    border:red solid 2px;
+    margin: 5px;
+}
